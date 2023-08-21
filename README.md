@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my Profile! 👨🏻‍💻
 
-<!--
-**Diogo364/Diogo364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 &nbsp; Working as AIQA Engineer @ INDT
+- 🔭 I’m currently working on AI and Cloud Computing
 
-Here are some ideas to get you started:
+### ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate by that feeling when you understand and learn something for the first time. That is what drives me professionally.
+My first major was in Biological Science (Universidade de Brasília), where I improved my Critial Thinking, Curiosity, and learned the Scientific Method.
+I worked as a Biology Teacher for alomost 2 years, when I decided to change my life completely and start a new carrer in Computer Science from scratch, which was the best professional decision in my life.
+
+### Techonologies
+- Python;
+- Computer Vision;
+- Docker
+- SQL;
+- GIT;
+- Bash/Shell;
+- Linux;
